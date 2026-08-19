@@ -1,1 +1,5 @@
-public static void main
+public class main {
+public static void main (string [] args) {
+  system.out.println("ram");
+  }
+}
